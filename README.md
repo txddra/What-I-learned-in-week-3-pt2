@@ -9,7 +9,7 @@
 ![](https://presentsimpleesl.files.wordpress.com/2012/08/a-lot2.png)
 
 ---
-## Week 3, Day 0
+## Week 3 // Day 0
 - learning to avoid merge conflicts
   
   
@@ -25,7 +25,7 @@
  ---
 ### **__JAVASCRIPT__**
 
-- *abrivated as “JS”*
+- *abbreviated as “JS”*
 - it’s not the same as **“Java”** - js was written in about 10 days, by netscape, made really quickly, to showcase programs. 
 - **Very different** 
 
