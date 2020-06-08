@@ -46,7 +46,7 @@ __Declaring variables__ :
 ### __Data types__:
 * **Strings** : _words, letters, symbols, emojis_
 * **Numbers**: … _includes 0_
-* **Booleans: true _or_ false.
+* **Booleans**: true _or_ false.
 
   __Non values__
 * **NaN**:(Not a Number)
