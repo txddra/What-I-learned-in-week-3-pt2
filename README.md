@@ -98,7 +98,7 @@ Powerlevel;
 
 ——
 
-## Week 3, Day 1
+## Week 3 // Day 1
 
 We don’t use VAR
 
