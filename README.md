@@ -78,6 +78,7 @@ _Concatenation_ - “smooshing"
  you can ‘declare/save’ content by using these labels. keywords
 
 `let`
+
 `const`
  
  then anything that comes after that is what’s going to be the place holder.
@@ -112,26 +113,27 @@ jest is going to the tester for our code
 
 ### __FUNCTIONS__
 
-A WAY TO DO, FLOW CONTROL
-runs the same code whenever you neef it without repeating yourself
-easily see what a bit of code is supposed to do
-Figure out why it’s not doing what it’s suppose to, debugging
+- A WAY TO DO, FLOW CONTROL
+- runs the same code whenever you need it without repeating yourself
+- easily see what a bit of code is supposed to do
+- figure out why it’s not doing what it’s suppose to, debugging
 
-parts of a function
 
-the word function declares the function - like let for variables
+
+    **parts of a function**
+
+the word `function` declares the function - like `let` for variables
 
 
 **Scope**
-what happens in functions stays in functions
-inside a function, you can look at the code “outside”.
+-what happens in functions stays in functions
+-inside a function, you can look at the code “outside”.
 but to code outside the code inside is an impenetrable box
-
 but code outside cant see anything in
 
 
 
-Global variables
+
 =================
 
 
